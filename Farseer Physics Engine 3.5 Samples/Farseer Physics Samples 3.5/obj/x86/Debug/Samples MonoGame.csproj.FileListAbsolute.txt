@@ -1,0 +1,77 @@
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Font.xnb
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\SDL.dll
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Fonts\detailsFont.xnb
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Fonts\frameRateCounterFont.xnb
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Fonts\menufont.xnb
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\alphabet.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\car.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\goo.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\link.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\object.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\wheel.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\blank.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\dots.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\pavement.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\squares.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\waves.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\arrow.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\buttons.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\cursor.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\gradient.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\logo.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\popup.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\slider.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\socket.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\stick.png
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Samples MonoGame.exe
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Samples MonoGame.pdb
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\DebugView MonoGame.dll
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.dll
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\DebugView MonoGame.pdb
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Samples MonoGame.csprojResolveAssemblyReference.cache
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Samples MonoGame.exe
+C:\Users\jackson.luff\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Samples MonoGame.pdb
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Samples MonoGame.exe
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Samples MonoGame.pdb
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Font.xnb
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\SDL.dll
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Fonts\detailsFont.xnb
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Fonts\frameRateCounterFont.xnb
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Fonts\menufont.xnb
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\alphabet.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\car.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\goo.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\link.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\object.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\wheel.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\blank.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\dots.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\pavement.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\squares.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Materials\waves.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\arrow.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\buttons.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\cursor.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\gradient.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\logo.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\popup.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\slider.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\socket.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Common\stick.png
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Samples MonoGame.exe
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Samples MonoGame.pdb
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\DebugView MonoGame.dll
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.dll
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\MonoGame.Framework.dll
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Tao.Sdl.dll
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\OpenTK.dll
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Lidgren.Network.dll
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\DebugView MonoGame.pdb
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\FarseerPhysics MonoGame.pdb
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\obj\x86\Debug\Samples MonoGame.csprojResolveAssemblyReference.cache
+C:\Users\andrew.giannopoulos\Desktop\Farseer Physics Engine 3.5 Samples\Farseer Physics Engine 3.5 Samples\Farseer Physics Samples 3.5\bin\WindowsGL\Debug\Content\Samples\gravitas.png

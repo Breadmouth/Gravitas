@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonoGame.Framework.PSMobile", "..\MonoGame-develop\MonoGame.Framework\MonoGame.Framework.PSMobile.csproj", "{EA26E76F-FDFE-4A8C-B5A3-C3B5761E28F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Gravitas", "Gravitas\Gravitas.csproj", "{A6B4B49C-11B7-4B45-95E4-773F144A219B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Farseer Physics MonoGame", "..\farseerphysics-106574\SourceFiles\Farseer Physics MonoGame.csproj", "{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Debug|Any CPU.Build.0 = Debug|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Debug|x86.ActiveCfg = Debug|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Debug|x86.Build.0 = Debug|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Release|Any CPU.ActiveCfg = Release|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Release|Any CPU.Build.0 = Release|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Release|x86.ActiveCfg = Release|x86
+		{0AAD36E3-51A5-4A07-AB60-5C8A66BD38B7}.Release|x86.Build.0 = Release|x86
+		{A6B4B49C-11B7-4B45-95E4-773F144A219B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6B4B49C-11B7-4B45-95E4-773F144A219B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6B4B49C-11B7-4B45-95E4-773F144A219B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6B4B49C-11B7-4B45-95E4-773F144A219B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA26E76F-FDFE-4A8C-B5A3-C3B5761E28F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA26E76F-FDFE-4A8C-B5A3-C3B5761E28F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA26E76F-FDFE-4A8C-B5A3-C3B5761E28F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA26E76F-FDFE-4A8C-B5A3-C3B5761E28F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Gravitas\Gravitas.csproj
+	EndGlobalSection
+EndGlobal
